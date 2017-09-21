@@ -7,8 +7,6 @@ then
     exit 1
 fi
 
-echo 'done'
-
 
 rm -fr /etc/portage/package.keywords
 rm -fr /etc/portage/package.mask
@@ -24,3 +22,4 @@ ln -sfv /.gentoo/portage/package.unmask /etc/portage/package.unmask
 ln -sfv /.gentoo/portage/package.use /etc/portage/package.use
 ln -sfv /.gentoo/portage/env /etc/portage/env
 
+echo 'done'
