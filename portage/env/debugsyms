@@ -1,0 +1,4 @@
+CFLAGS="-O1 -pipe -ggdb"
+CXXFLAGS="-O1 -pipe -ggdb"
+FEATURES="${FEATURES} splitdebug compressdebug -nostrip"
+USE="debug"
