@@ -1,0 +1,3 @@
+x11-misc/rofi i3
+x11-libs/cairo xcb
+x11-libs/libxcb xkb

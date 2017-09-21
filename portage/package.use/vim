@@ -1,0 +1,2 @@
+app-editors/vim python lua -perl -ruby
+dev-libs/boost python

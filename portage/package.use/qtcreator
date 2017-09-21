@@ -1,0 +1,7 @@
+dev-libs/libpcre pcre16
+dev-libs/botan threads
+dev-qt/qt-creator clang cmake git qbs valgrind clangcodemodel clangstaticanalyzer python designer modeling scxml
+media-libs/libvpx svc
+dev-qt/qtwebchannel qml
+dev-qt/qtwebengine widgets
+dev-util/cmake server

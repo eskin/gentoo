@@ -1,0 +1,4 @@
+dev-db/mariadb static-libs -server
+virtual/libmysqlclient static-libs
+sys-libs/zlib static-libs
+dev-libs/openssl static-libs

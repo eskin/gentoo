@@ -1,0 +1,4 @@
+sys-libs/tevent python
+sys-libs/tdb python
+sys-libs/ntdb python
+

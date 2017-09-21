@@ -1,0 +1,6 @@
+dev-libs/glib dbus
+app-crypt/pinentry gnome-keyring
+dev-libs/libxml2 python
+dev-libs/libgit2-glib ssh
+dev-libs/libgit2 ssh threads
+app-crypt/gcr gtk

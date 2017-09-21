@@ -1,0 +1,4 @@
+dev-python/PyQt5 gui network widgets -opengl
+dev-python/PyQt4 -opengl
+dev-python/QtPy gui -opengl
+

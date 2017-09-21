@@ -1,0 +1,3 @@
+net-libs/nodejs
+net-libs/nghttp2
+dev-libs/libuv

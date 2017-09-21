@@ -1,0 +1,6 @@
+sys-devel/llvm clang default-compiler-rt default-libcxx
+sys-devel/clang-runtime libcxx
+sys-libs/libcxx libunwind libcxxabi -libcxxrt
+sys-libs/libcxxabi libunwind
+sys-devel/clang xml
+dev-util/lldb python
