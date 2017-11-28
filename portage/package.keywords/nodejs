@@ -1,3 +1,4 @@
 net-libs/nodejs
 net-libs/nghttp2
 dev-libs/libuv
+net-libs/http-parser
