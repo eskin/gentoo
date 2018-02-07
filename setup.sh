@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-read -p 'Are you sure? This will replace some files in /etc/portage/ (y/n)' -n 1 -r
+read -p 'Are you sure? This will replace make.conf and some other files in /etc/portage/ (y/n)' -n 1 -r
 if [[ ! $REPLY =~ ^[Yy]$ ]]
 then
     echo 'user cancelled'
