@@ -1,1 +1,3 @@
 dev-qt/qtgui gtk
+dev-libs/libpcre2 pcre16
+dev-libs/libxml2 icu

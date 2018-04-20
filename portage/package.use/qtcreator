@@ -1,7 +1,8 @@
 dev-libs/libpcre pcre16
 dev-libs/botan threads
-dev-qt/qt-creator clang cmake git qbs valgrind clangcodemodel clangstaticanalyzer python designer modeling scxml
+dev-qt/qt-creator clang cmake git qbs valgrind clangcodemodel clangstaticanalyzer python -designer -modeling -scxml -webengine
 media-libs/libvpx svc
 dev-qt/qtwebchannel qml
-dev-qt/qtwebengine widgets
+dev-qt/qtwebengine widgets -system-ffmpeg bindist
 dev-util/cmake server
+dev-libs/botan -ssl

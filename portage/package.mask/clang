@@ -1,0 +1,5 @@
+=sys-devel/clang-runtime-6.0.0-r1
+=sys-devel/clang-6.0.0-r1
+=sys-devel/llvm-6.0.0
+=sys-libs/llvm-libunwind-6.0.0
+=dev-util/lldb-6.0.0
